@@ -1,0 +1,16 @@
+{
+  "name": "spmaju-cli-atm_project",
+  "version": "5.4.2",
+  "description": "Simple command-line utilities for simulating ATM transactions.",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
